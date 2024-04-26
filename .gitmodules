@@ -1,0 +1,6 @@
+[submodule "OOAP.omelyanyuk.builderLab"]
+	path = OOAP.omelyanyuk.builderLab
+	url = https://github.com/ItIsDan/OOAP.omelyanyuk.builderLab.git
+[submodule "ClientServerObserver"]
+	path = ClientServerObserver
+	url = https://github.com/ItIsDan/ClientServerObserver.git
